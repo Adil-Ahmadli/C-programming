@@ -1,0 +1,31 @@
+Name: Sengor
+Ratings: 5.00 4.20 2.30 3.10
+Name: Hande
+Ratings: 2.10 3.40 4.20 5.00
+Name: Ahmet
+Ratings: 3.10 5.00 4.50 2.30
+Name: Tolga
+Ratings: 3.20 4.20 1.30 4.60
+Name: Emre
+ Project-1: Java
+ Project-2: Java
+ Project-3: Java
+ Project-4: C++
+ Project-5: C++
+Name: Gorkem
+ Project-1: Java
+ Project-2: Java
+ Project-3: Java
+ Project-4: C++
+ Project-5: C++
+Name: Yusuf
+ Project-1: Java
+ Project-2: Java
+ Project-3: Java
+ Project-4: C++
+ Project-5: C++
+Score of Emre: 56.40
+Score of Gorkem: 60.90
+Score of Yusuf: 60.90
+Average score: 59.40
+Best student: Gorkem, Max Score: 60.90
